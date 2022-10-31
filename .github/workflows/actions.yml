@@ -17,4 +17,4 @@ on:
       with:
         node-version: 16.x
       - run: npm install
-      - run: npm run lind
+      - run: npm run lint
